@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var rotate = require('rotate');
-var flip = require('flip');
+var rotate = require('rotate-component');
+var flip = require('flip-component');
 
 /**
  * Expose `orient`.
